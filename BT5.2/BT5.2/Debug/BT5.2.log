@@ -1,0 +1,3 @@
+﻿  BT5.2.cpp
+F:\Do hoa\BT5.2\BT5.2\BT5.2.cpp(65,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT5.2.vcxproj -> F:\Do hoa\BT5.2\Debug\BT5.2.exe

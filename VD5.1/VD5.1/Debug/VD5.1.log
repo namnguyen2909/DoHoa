@@ -1,0 +1,3 @@
+﻿  VD5.1.cpp
+F:\Do hoa\VD5.1\VD5.1\VD5.1.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VD5.1.vcxproj -> F:\Do hoa\VD5.1\Debug\VD5.1.exe

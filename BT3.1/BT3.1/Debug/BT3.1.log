@@ -1,0 +1,3 @@
+﻿  BT3.1.cpp
+F:\Do hoa\BT3.1\BT3.1\BT3.1.cpp(58,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT3.1.vcxproj -> F:\Do hoa\BT3.1\Debug\BT3.1.exe
